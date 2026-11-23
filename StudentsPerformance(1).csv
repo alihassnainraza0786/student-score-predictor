@@ -1,0 +1,31 @@
+gender,race_ethnicity,parental_education,lunch,test_preparation_course,math_score,reading_score,writing_score
+male,group A,bachelor's degree,standard,completed,67,70,68
+female,group B,some college,standard,none,72,75,74
+male,group C,high school,free/reduced,none,45,48,46
+female,group A,associate's degree,standard,completed,88,90,92
+male,group D,some college,standard,completed,78,76,80
+female,group C,high school,free/reduced,none,55,62,59
+male,group B,master's degree,standard,completed,91,89,94
+female,group D,associate's degree,standard,none,83,86,85
+male,group E,some high school,free/reduced,none,39,44,41
+female,group B,bachelor's degree,standard,completed,95,96,98
+male,group A,high school,standard,none,61,58,60
+female,group C,some college,standard,completed,76,82,79
+male,group D,associate's degree,free/reduced,none,52,50,48
+female,group E,master's degree,standard,completed,89,93,91
+male,group B,some high school,free/reduced,none,47,43,45
+female,group A,some college,standard,none,70,73,72
+male,group C,bachelor's degree,standard,completed,84,81,83
+female,group D,high school,free/reduced,none,58,64,61
+male,group E,associate's degree,standard,completed,80,77,79
+female,group B,master's degree,standard,completed,93,95,96
+male,group A,some college,free/reduced,none,49,52,50
+female,group C,associate's degree,standard,completed,86,88,87
+male,group D,high school,standard,none,64,60,62
+female,group E,some high school,free/reduced,none,43,47,45
+male,group B,bachelor's degree,standard,completed,87,84,86
+female,group A,high school,standard,none,68,71,69
+male,group C,some college,free/reduced,none,56,54,55
+female,group D,master's degree,standard,completed,97,98,99
+male,group E,associate's degree,standard,completed,74,72,75
+female,group B,some college,free/reduced,none,62,67,65
